@@ -20,8 +20,8 @@ ProNet is a LinkedIn-like professional networking platform designed specifically
 - Lucide React
 
 ## Team
-- Jai Sangle (Repository Owner)
-- [Your Name] (Contributor)
+- Jai Sangle 
+- Mrugmai Dudhamande 
 
 ## Setup
 ```bash
